@@ -8,6 +8,11 @@
     "start": "node server.js",
     "build" : "echo \"Build\""
   },
+  "dependencies":{
+    "mongoose": "^7.6.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
   "author": "",
   "license": "ISC"
 }
